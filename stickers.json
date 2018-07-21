@@ -4,7 +4,7 @@
 		"name": "Менхэра-Чан",
 		"description": "",
 		"url": "https://raw.githubusercontent.com/InconsistencyIncarnate/VKSOVA-Ruby/master/packs/menher.zip",
-		"icon": "https://raw.githubusercontent.com/HardSer/VKSOVA-Ruby/master/thumbs/mehnera-thumb.png",
+		"icon": "https://raw.githubusercontent.com/HardSer/VKSOVA-Ruby/master/thumbs/menhera-thumb.png",
 		"version": 1
     },
     {
@@ -22,5 +22,5 @@
 		"url": "https://raw.githubusercontent.com/InconsistencyIncarnate/VKSOVA-Ruby/master/packs/menherl.zip",
 		"icon": "https://raw.githubusercontent.com/InconsistencyIncarnate/VKSOVA-Ruby/master/thumbs/menherl_thumb.png",
 		"version": 1
-    },
+    }
 ]
