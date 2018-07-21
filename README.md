@@ -1,4 +1,4 @@
-# VKSova-PublicStickersRepo
+# VKSova-Ruby
 Публичный спсиок стикеров для VK Sova
 
 Menhera-Chat/@InconsistencyIncarnate [Telegram]
