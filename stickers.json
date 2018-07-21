@@ -1,0 +1,26 @@
+[
+	{
+		"id": "Ruby-Chan",
+		"name": "Менхэра-Чан",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/InconsistencyIncarnate/VKSOVA-Ruby/master/packs/menher.zip",
+		"icon": "https://raw.githubusercontent.com/HardSer/VKSOVA-Ruby/master/thumbs/mehnera-thumb.png",
+		"version": 1
+    },
+    {
+		"id": "Ruby-Chan2",
+		"name": "Менхэра-Чан 2",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/InconsistencyIncarnate/VKSOVA-Ruby/master/packs/menher2.zip",
+		"icon": "https://raw.githubusercontent.com/InconsistencyIncarnate/VKSOVA-Ruby/master/thumbs/menher-thumb.png",
+		"version": 1
+    },
+    {
+		"id": "Ruby-Chan-XS",
+		"name": "Менхэра-Чан XS",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/InconsistencyIncarnate/VKSOVA-Ruby/master/packs/menherl.zip",
+		"icon": "https://raw.githubusercontent.com/InconsistencyIncarnate/VKSOVA-Ruby/master/thumbs/menherl_thumb.png",
+		"version": 1
+    },
+]
