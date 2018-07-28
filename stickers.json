@@ -22,5 +22,29 @@
 		"url": "https://raw.githubusercontent.com/InconsistencyIncarnate/VKSOVA-Ruby/master/packs/menherl.zip",
 		"icon": "https://raw.githubusercontent.com/InconsistencyIncarnate/VKSOVA-Ruby/master/thumbs/menherl-thumb.png",
 		"version": 1
+    },
+	{
+		"id": "Ruby-Panzer",
+		"name": "Girls und Panzer",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/InconsistencyIncarnate/VKSOVA-Ruby/master/packs/GuP.zip",
+		"icon": "https://raw.githubusercontent.com/InconsistencyIncarnate/VKSOVA-Ruby/master/thumbs/GUP-Thumb.png",
+		"version": 1
+    },
+	{
+		"id": "Ruby-Rose",
+		"name": "RWBY",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/InconsistencyIncarnate/VKSOVA-Ruby/master/packs/RWBY.zip",
+		"icon": "https://raw.githubusercontent.com/InconsistencyIncarnate/VKSOVA-Ruby/master/thumbs/ruby-thumb.png",
+		"version": 1
+    },
+	{
+		"id": "Ruby-JustHer",
+		"name": "Just Her.",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/InconsistencyIncarnate/VKSOVA-Ruby/master/packs/monika.zip",
+		"icon": "https://raw.githubusercontent.com/InconsistencyIncarnate/VKSOVA-Ruby/master/thumbs/Monika-Thumb.png",
+		"version": 1
     }
 ]
